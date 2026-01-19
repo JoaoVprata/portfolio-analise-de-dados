@@ -1,77 +1,80 @@
-📊 Projeto 02 — Dashboard Analítico em Python (Google Colab)
-📌 Contexto
+# 📊 Projeto 02 — Dashboard Analítico em Python
 
-Este projeto simula uma análise de dados de uma clínica de estética, com foco em indicadores financeiros e operacionais, utilizando Python no Google Colab.
-O objetivo é transformar dados brutos em métricas claras, gráficos e insights para tomada de decisão.
+## 📌 Contexto
+Este projeto simula a análise de dados de uma **clínica de estética**, com foco em indicadores **financeiros e operacionais**, utilizando **Python no Google Colab**.  
+O objetivo é transformar dados brutos em **métricas claras**, **visualizações** e **insights** que apoiem a tomada de decisão gerencial.
 
-🎯 Objetivo do Projeto
+---
 
-Criar métricas de desempenho financeiro e operacional
+## 🎯 Objetivo
+- Criar métricas relevantes de negócio
+- Analisar faturamento e desempenho dos serviços
+- Avaliar comportamento de faltas
+- Construir visualizações claras para apoio à gestão
 
-Analisar faturamento, serviços e comportamento de clientes
+---
 
-Construir gráficos que apoiem decisões gerenciais
+## 🛠️ Ferramentas Utilizadas
+- Python  
+- Google Colab  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Arquivos CSV  
 
-Demonstrar habilidades iniciais em Análise de Dados
+---
 
-🛠️ Ferramentas Utilizadas
+## 🗂️ Base de Dados
+Os dados utilizados são simulados e representam o funcionamento de uma clínica de estética:
 
-Python
+- `clientes.csv` → informações cadastrais dos clientes  
+- `agendamentos.csv` → datas e status dos atendimentos (Realizado / Falta)  
+- `financeiro.csv` → valores faturados por serviço  
+- `profissionais.csv` → profissionais responsáveis pelos atendimentos  
 
-Google Colab
+---
 
-Pandas (manipulação de dados)
+## 📐 Métricas Criadas
+- **Faturamento mensal**
+- **Faturamento por serviço**
+- **Ticket médio**
+- **Taxa de faltas (%)**
+- **Top 5 serviços por faturamento**
 
-Matplotlib e Seaborn (visualização de dados)
+---
 
-Arquivos CSV
+## 📊 Visualizações Geradas
+- 📈 Gráfico de linha — evolução do faturamento mensal  
+- 📊 Gráfico de barras — faturamento por serviço  
+- 📊 Gráfico de barras — faltas por mês  
+- 📊 Gráfico de barras horizontais — top 5 serviços mais rentáveis  
 
-🗂️ Estrutura dos Dados
+As imagens dos gráficos estão disponíveis na pasta `/imagens`.
 
-Os dados utilizados simulam o funcionamento de uma clínica e estão organizados nos seguintes arquivos:
+---
 
-clientes.csv → dados cadastrais dos clientes
+## 🔍 Principais Insights
+- Identificação dos serviços com maior impacto no faturamento
+- Análise do comportamento de faltas ao longo do tempo
+- Cálculo do ticket médio para apoiar decisões de precificação
+- Base para ações estratégicas como promoções e ajustes de agenda
 
-agendamentos.csv → datas, status dos atendimentos (realizado ou falta)
+---
 
-financeiro.csv → valores faturados por serviço
 
-profissionais.csv → profissionais envolvidos nos atendimentos
+## 🚀 Conclusão
+Este projeto demonstra a capacidade de:
+- Manipular dados em formato CSV
+- Criar métricas de negócio relevantes
+- Desenvolver visualizações analíticas
+- Comunicar resultados de forma clara e objetiva
 
-📐 Métricas Criadas
+O projeto reflete atividades comuns no dia a dia de um **Analista de Dados**.
 
-As principais métricas analisadas foram:
+---
 
-Faturamento mensal
+## 👤 Autor
+**João Victor Prata**  
+📊 Análise de Dados | Python | Pandas  
 
-Faturamento por serviço
 
-Ticket médio
-
-Taxa de faltas (%)
-
-Top 5 serviços por faturamento
-
-📊 Visualizações Geradas
-
-Foram criados os seguintes gráficos:
-
-📈 Linha — Evolução do faturamento mensal
-
-📊 Barra — Faturamento por serviço
-
-📊 Barra — Quantidade de faltas por mês
-
-📊 Barra horizontal — Top 5 serviços mais lucrativos
-
-As imagens dos gráficos estão disponíveis na pasta /imagens.
-
-🔍 Principais Insights
-
-Identificação dos serviços com maior impacto no faturamento
-
-Análise do comportamento de faltas ao longo dos meses
-
-Cálculo do ticket médio para apoiar estratégias de precificação
-
-Base para decisões como promoções, ajustes de agenda e foco em serviços mais rentáveis
