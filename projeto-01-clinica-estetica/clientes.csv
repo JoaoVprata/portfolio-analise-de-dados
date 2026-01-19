@@ -1,0 +1,51 @@
+cliente_id,idade,sexo,bairro,data_primeira_visita
+1,22,F,Centro,2024-01-01
+2,25,F,Setor Oeste,2024-01-08
+3,30,F,Bueno,2024-01-15
+4,28,M,Centro,2024-01-22
+5,35,F,Jardim América,2024-01-29
+6,40,F,Centro,2024-02-05
+7,45,M,Setor Oeste,2024-02-12
+8,32,F,Bueno,2024-02-19
+9,29,F,Centro,2024-02-26
+10,27,M,Jardim América,2024-03-04
+11,22,F,Centro,2024-03-11
+12,25,F,Setor Oeste,2024-03-18
+13,30,F,Bueno,2024-03-25
+14,28,M,Centro,2024-04-01
+15,35,F,Jardim América,2024-04-08
+16,40,F,Centro,2024-04-15
+17,45,M,Setor Oeste,2024-04-22
+18,32,F,Bueno,2024-04-29
+19,29,F,Centro,2024-05-06
+20,27,M,Jardim América,2024-05-13
+21,22,F,Centro,2024-05-20
+22,25,F,Setor Oeste,2024-05-27
+23,30,F,Bueno,2024-06-03
+24,28,M,Centro,2024-06-10
+25,35,F,Jardim América,2024-06-17
+26,40,F,Centro,2024-06-24
+27,45,M,Setor Oeste,2024-07-01
+28,32,F,Bueno,2024-07-08
+29,29,F,Centro,2024-07-15
+30,27,M,Jardim América,2024-07-22
+31,22,F,Centro,2024-07-29
+32,25,F,Setor Oeste,2024-08-05
+33,30,F,Bueno,2024-08-12
+34,28,M,Centro,2024-08-19
+35,35,F,Jardim América,2024-08-26
+36,40,F,Centro,2024-09-02
+37,45,M,Setor Oeste,2024-09-09
+38,32,F,Bueno,2024-09-16
+39,29,F,Centro,2024-09-23
+40,27,M,Jardim América,2024-09-30
+41,22,F,Centro,2024-10-07
+42,25,F,Setor Oeste,2024-10-14
+43,30,F,Bueno,2024-10-21
+44,28,M,Centro,2024-10-28
+45,35,F,Jardim América,2024-11-04
+46,40,F,Centro,2024-11-11
+47,45,M,Setor Oeste,2024-11-18
+48,32,F,Bueno,2024-11-25
+49,29,F,Centro,2024-12-02
+50,27,M,Jardim América,2024-12-09
