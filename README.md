@@ -1,6 +1,3 @@
-# portfolio-analise-de-dados
-portifólio profissional para analista de dados BI python e IA
-
 # Portfólio — Análise de Dados
 
 Olá! Sou analista de dados júnior com foco em métricas de negócio, dashboards e análise exploratória.
